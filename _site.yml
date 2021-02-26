@@ -1,0 +1,13 @@
+name: "Gapminder Exercises"
+navbar:
+  title: "Gapminder"
+  left:
+     - text: "About"
+      href: about.html
+      - text: "Life Expectancy"
+      href: life_expectancy.html
+    - text: "Fertility"
+      href: fertility.html
+    - text: "Infant Mortality"
+      href: infant_mortality.html
+output_dir: "."
