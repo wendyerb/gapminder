@@ -2,8 +2,8 @@ name: "Gapminder Exercises"
 navbar:
   title: "Gapminder"
   left:
-     - text: "About"
-      href: about.html
+     - text: "Home"
+      href: index.html
       - text: "Life Expectancy"
       href: life_expectancy.html
     - text: "Fertility"
