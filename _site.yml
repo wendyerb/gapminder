@@ -1,9 +1,9 @@
 name: "Gapminder Exercises"
 navbar:
   title: "Gapminder"
-  left:
-     - text: "Home"
-      href: index.html
-      - text: "All Plots"
-      href: gapminder.html
+left:
+  - text: "Home"
+    href: index.html
+  - text: "All Plots"
+    href: gapminder.html
 output_dir: "."
